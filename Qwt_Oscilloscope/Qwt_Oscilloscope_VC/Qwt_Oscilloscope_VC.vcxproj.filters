@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\imagewidget.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\knob.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\mainwindow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_ImageWidget.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_knob.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_mainwindow.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_plot.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_samplingthread.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\moc\moc_WheelBox.cpp">
+      <Filter>moc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\plot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\samplingthread.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\signaldata.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\qwt-6.1.3\examples\oscilloscope\wheelbox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\imagewidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\knob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\plot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\samplingthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\signaldata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\qwt-6.1.3\examples\oscilloscope\wheelbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="moc">
+      <UniqueIdentifier>{cf0a393b-ccf7-4c3a-92f4-01bd6946a14c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{de27b01c-0385-426a-b8c7-0da1a16ae713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{980af619-09c1-474d-835e-7f28a732a36c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
